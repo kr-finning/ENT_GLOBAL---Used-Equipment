@@ -1,0 +1,113 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1466.8696131706624,
+            "y": 0
+          },
+          "nodeIndex": "Data Refresh Details",
+          "nodeLineageTag": "0edcd32d-161a-45c4-92b7-51baad509f13",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 785.57788944723609,
+            "y": 0
+          },
+          "nodeIndex": "DBS Saskatchewan",
+          "nodeLineageTag": "5b12bc0d-8e3e-43cb-a99f-3a9499aaeb9f",
+          "size": {
+            "height": 489,
+            "width": 274
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 382.46733668341705,
+            "y": 0
+          },
+          "nodeIndex": "Fused Canada",
+          "nodeLineageTag": "c4ef85f1-75be-4f07-ac7f-459b050658bd",
+          "size": {
+            "height": 728.84547738693459,
+            "width": 229.94472361809039
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "M3 West",
+          "nodeLineageTag": "2794ea80-dd82-4d63-8fb2-086ec764080c",
+          "size": {
+            "height": 657,
+            "width": 238.94095477386935
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1164.3891250333045,
+            "y": 0
+          },
+          "nodeIndex": "UE Inventory",
+          "nodeLineageTag": "91060915-6148-4b7a-94e4-81325cd3ed1e",
+          "size": {
+            "height": 664.209798994975,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1489.8268918575618,
+            "y": 197.34118651209189
+          },
+          "nodeIndex": "M3 West WO",
+          "nodeLineageTag": "eec3525c-009e-4b7e-9aaa-9918431333bf",
+          "size": {
+            "height": 545.34422110552771,
+            "width": 282.66331658291483
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1828.9921478539434,
+            "y": 0
+          },
+          "nodeIndex": "UE Inventory Metadata",
+          "nodeLineageTag": "5126d021-66d0-4c47-ba2a-83b994fae38c",
+          "size": {
+            "height": 352.3501415833793,
+            "width": 234
+          },
+          "zIndex": 7
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 90.573373873043252,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
